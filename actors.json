@@ -36,8 +36,7 @@
       "name":"Marisa Tomei",
       "character_name":"May Parker",
       "birthdate":"1964-12-04",
-      "birthplace":"Brooklyn,
-      New York, United States",
+      "birthplace":"Brooklyn New York, United States",
       "nationality":"American",
       "photo_url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f9\/Marisa_Tomei_TIFF_2012_%28cropped%29.jpg"
     },
@@ -75,7 +74,7 @@
       "id": "8",
       "age": "56",
       "name": "Chris Evans",
-      "character_name": "Steve Rogers \/ Captain America",
+      "character_name": "Steve Rogers / Captain America",
       "birthdate": "1981-06-13",
       "birthplace": "Boston, Massachusetts, United States",
       "nationality": "American",
