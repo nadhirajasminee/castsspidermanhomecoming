@@ -8,7 +8,7 @@
       "birthdate":"1996-06-01",
       "birthplace":"Kingston upon Thames, United Kingdom",
       "nationality":"English",
-      "photo_url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3c\/Tom_Holland_by_Gage_Skidmore.jpg\/340px-Tom_Holland_by_Gage_Skidmore.jpg"
+      "poster":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3c\/Tom_Holland_by_Gage_Skidmore.jpg\/340px-Tom_Holland_by_Gage_Skidmore.jpg"
     },
     {
       "id":"2",
@@ -18,7 +18,7 @@
       "birthdate":"1996-09-01",
       "birthplace":"Oakland, California, United States",
       "nationality":"American",
-      "photo_url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d2\/ZendayaColemanOct2010-2.jpg"
+      "poster":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d2\/ZendayaColemanOct2010-2.jpg"
     },
     {
       "id":"3",
@@ -28,7 +28,7 @@
       "birthdate":"1980-12-19",
       "birthplace":"Los Angeles, California, United States",
       "nationality":"American",
-      "photo_url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0e\/Jake_Gyllenhaal_2019_by_Glenn_Francis.jpg"
+      "poster":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0e\/Jake_Gyllenhaal_2019_by_Glenn_Francis.jpg"
     },
     {
       "id":"4",
@@ -38,7 +38,7 @@
       "birthdate":"1964-12-04",
       "birthplace":"Brooklyn New York, United States",
       "nationality":"American",
-      "photo_url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f9\/Marisa_Tomei_TIFF_2012_%28cropped%29.jpg"
+      "poster":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f9\/Marisa_Tomei_TIFF_2012_%28cropped%29.jpg"
     },
 {
       "id": "5",
@@ -48,7 +48,7 @@
       "birthdate": "1965-04-04",
       "birthplace": "Manhattan, New York, United States",
       "nationality": "American",
-      "photo_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/94\/Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg\/1024px-Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg"
+      "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/94\/Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg\/1024px-Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg"
     },
     {
       "id": "6",
@@ -58,7 +58,7 @@
       "birthdate": "1990-03-28",
       "birthplace": "Chicago, Illinois, United States",
       "nationality": "American",
-      "photo_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/88\/Laura_Harrier_Cannes_2018_2.jpg"
+      "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/88\/Laura_Harrier_Cannes_2018_2.jpg"
     },
     {
       "id": "7",
@@ -68,7 +68,7 @@
       "birthdate": "1996-10-09",
       "birthplace": "Honolulu, Hawaii, United States",
       "nationality": "American",
-      "photo_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5d\/Jacob_Batalon_%2828035642754%29_%28cropped%29.jpg\/1024px-Jacob_Batalon_%2828035642754%29_%28cropped%29.jpg"
+      "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5d\/Jacob_Batalon_%2828035642754%29_%28cropped%29.jpg\/1024px-Jacob_Batalon_%2828035642754%29_%28cropped%29.jpg"
     },
     {
       "id": "8",
@@ -78,7 +78,7 @@
       "birthdate": "1981-06-13",
       "birthplace": "Boston, Massachusetts, United States",
       "nationality": "American",
-      "photo_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8d\/ChrisEvans2023.jpg\/440px-ChrisEvans2023.jpg"
+      "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8d\/ChrisEvans2023.jpg\/440px-ChrisEvans2023.jpg"
     },
     {
       "id": "9",
@@ -88,7 +88,7 @@
       "birthdate": "1983-09-25",
       "birthplace": "Edwards Air Force Base, California, United States",
       "nationality": "American",
-      "photo_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2a\/Donald_Glover_TIFF_2015.jpg\/1024px-Donald_Glover_TIFF_2015.jpg"
+      "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2a\/Donald_Glover_TIFF_2015.jpg\/1024px-Donald_Glover_TIFF_2015.jpg"
     },
     {
       "id": "10",
@@ -98,7 +98,7 @@
       "birthdate": "1966-10-19",
       "birthplace": "Queens, New York, United States",
       "nationality": "American",
-      "photo_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/eb\/Jon_Favreau_2016.jpeg\/1024px-Jon_Favreau_2016.jpeg"
+      "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/eb\/Jon_Favreau_2016.jpeg\/1024px-Jon_Favreau_2016.jpeg"
     }
   ]
 }
